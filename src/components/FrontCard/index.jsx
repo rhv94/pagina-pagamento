@@ -16,7 +16,7 @@ export default function CardFront(){
             <div className="w-full h-[40%] flex flex-col">
                 <div className="w-full h-[60%] flex">
                     <FcSimCardChip size={60} />
-                    <LuNfc size={40} color="#fff"/>
+                    <LuNfc size={60} color="#fff"/>
 
                 </div>
                 <div className="w-full h-[40%] pl-4">
